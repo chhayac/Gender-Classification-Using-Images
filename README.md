@@ -1,2 +1,2 @@
-# Machine-Learning
-Machine Learning fun
+# Deep-Learning
+Gender Prediction from Social Media profile pictures
