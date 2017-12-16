@@ -1,5 +1,5 @@
 # Deep-Learning
-Gender Prediction from Social Media profile pictures
+Gender Prediction from Social Media profile pictures using deep learning
 
 ## Goal
 To predict gender of 9500 facebook users using images as source. I used profile.csv data to separate data into male and female folders as Keras expected
