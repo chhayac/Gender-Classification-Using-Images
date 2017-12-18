@@ -1,4 +1,7 @@
-# Deep-Learning
+# Placeholder repository for Gender Classification Using Images
+I will be uploading the code once my finals are finished
+
+## Deep-Learning
 Gender Prediction from Social Media profile pictures using deep learning
 
 ## Goal
@@ -9,3 +12,4 @@ Keras with tensorflow as backend
 
 ## Strategy
 Fine-tuned VGG16 ImageNet model for the binary classification task
+
