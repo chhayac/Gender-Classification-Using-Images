@@ -11,5 +11,5 @@ To predict gender of 9500 facebook users using images as source. I used profile.
 Keras with tensorflow as backend
 
 ## Strategy
-Fine-tuned VGG16 ImageNet model for the binary classification task
+Fine-tuned VGG16 ImageNet model for the binary classification task. The method is called Transfer Learning.
 
