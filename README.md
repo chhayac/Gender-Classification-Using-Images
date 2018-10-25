@@ -1,5 +1,5 @@
 # Placeholder repository for Gender Classification Using Images
-I will be uploading the code once my finals are finished
+I will be uploading the code in some more days
 
 ## Deep-Learning
 Gender Prediction from Social Media profile pictures using deep learning
